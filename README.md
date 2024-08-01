@@ -8,3 +8,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 🔰 Beginner 
 - [Day 1:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day%201) Working with Variables in Python to Manage Data
+- [Day 2:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day%202) Understanding Data Types and How to Manipulate Strings
