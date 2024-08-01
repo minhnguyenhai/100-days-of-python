@@ -6,6 +6,6 @@
 - Multiple If Statements in Succession
 - Logical Operators
 ## Treasure Island
-![day03](https://user-images.githubusercontent.com/98851253/154304693-a3aa3a5a-e8f3-46b8-bcea-6f0884aad99c.gif)
+![day03](https://github.com/user-attachments/assets/407c6155-6e84-4918-a1e4-60253dea3fdb)
 
 https://replit.com/@haiminhc2dh/treasure-island-start
