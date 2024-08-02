@@ -12,3 +12,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 3:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day3) Control Flow and Logical Operators
 - [Day 4:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day4) Randomisation and Python Lists
 - [Day 5:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day5) Python Loops
+- [Day 6:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day5) Python Functions & Karel
