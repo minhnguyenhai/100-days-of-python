@@ -10,3 +10,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 1:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day1) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day2) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day3) Control Flow and Logical Operators
+- [Day 4:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day4) Randomisation and Python Lists
