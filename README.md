@@ -14,3 +14,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 5:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day5) Python Loops
 - [Day 6:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day6) Python Functions & Karel
 - [Day 7:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day7) Hangman
+- [Day 8:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day8) Function Parameters & Caesar Cipher
