@@ -17,3 +17,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 8:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day8) Function Parameters & Caesar Cipher
 - [Day 9:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day9) Dictionaries, Nesting and the Secret Auction
 - [Day 10:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day10) Functions with Outputs
+- [Day 11:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day11) The Blackjack Capstone Project
