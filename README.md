@@ -19,3 +19,4 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 10:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day010) Functions with Outputs
 - [Day 11:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day011) The Blackjack Capstone Project
 - [Day 12:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day012) Scope & Number Guessing Game
+- [Day 13:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day013) Debugging: How to Find and Fix Errors in your Code
