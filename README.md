@@ -24,3 +24,6 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 
 ## 📚 Intermediate
 - [Day 15:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day015) Local Development Environment Setup & the Coffee Machine
+
+## 👨‍💻 Intermediate+
+- [Day 54:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day054) Introduction to Web Development with Flask
