@@ -28,6 +28,7 @@ Most projects ideas come from the Udemy course: [100 Days of Code: The Complete 
 - [Day 17:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day017) The Quiz Project & The Benefits of OOP
 
 ## 👨‍💻 Intermediate+
+- [Day 32:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day032) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 54:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day054) Introduction to Web Development with Flask
 - [Day 55:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day055) HTML & URL Parsing in Flask and the Higher Lower Game
 - [Day 56:](https://github.com/haiminhnguyenn/100-days-of-python/tree/main/Day056) Rendering HTML/Static Files and Using Website Templates
